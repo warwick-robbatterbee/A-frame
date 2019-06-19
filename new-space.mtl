@@ -1,0 +1,23 @@
+# Blender MTL File: 'new space MCI.blend'
+# Material Count: 2
+
+newmtl Concrete
+Ns 30.980778
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/u1470505/Downloads/79b141ec6e83cd13a8f2f1c3469041c0.jpg
+
+newmtl LED_Light
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
